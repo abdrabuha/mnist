@@ -52,3 +52,5 @@ This code demonstrates a simple pipeline for downloading, processing, training a
         Outputs the original prediction and the model's prediction on the original and adversarial examples.
 
 This code demonstrates the generation of adversarial examples on a pre-trained MNIST model using FGSM and PGD methods and provides visualizations to understand the differences between the original and adversarial images. Additionally, it compares the model predictions on these examples to highlight potential vulnerabilities of the model against adversarial attacks.
+
+Usu it but please dont forget me :)
